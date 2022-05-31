@@ -13,6 +13,7 @@ public class Timemanager : MonoBehaviour
     void Start()
     {
         customTime = 0;
+        
     }
 
     // Update is called once per frame
